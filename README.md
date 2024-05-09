@@ -29,7 +29,7 @@
 <ol>
   <li>Open a new terminal window in VSCode.</li>
   <li>Type: "python3 calculator.py" to run the calculator.py file.</li>
-  <li>To test this before you have any code written down, type "print("Hello World.")" into your python file and save it, then run the python3 command in terminal and check for a print sstatement.</li>
+  <li>To test this before you have any code written down, type "print("Hello World.")" into your python file and save it, then run the python3 command in terminal and check for a print statement.</li>
 </ol>
 <h3>How to commit new code to github:</h3>
 <ol>
