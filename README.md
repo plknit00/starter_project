@@ -12,7 +12,7 @@
   <li>Create a file in VSCode and name it "calculator.py".</li>
   <ol>
     <li>This can be done by going over to the file window on the left in VSCode and hovering over the project file name.</li>
-    <li>The elftmost button that looks like a piece of paper with a plus is the new file button. Click it!</li>
+    <li>The left-most button that looks like a piece of paper with a plus is the new file button. Click it!</li>
     <li>All python files must end in .py, so name it according to that and the project style.</li>
   </ol>
   <li>Now you are good to get stared with your project!</li>
