@@ -23,6 +23,7 @@
   <li>Allow user input for two numbers they wish to compute with.</li>
   <li>Use print statements to communicate to user how the calculator works and to print results.</li>
   <li>Do not use if statements for the four different cases, create functions for the computation.</li>
+  <li>Use the internet as much as needed to assist in your project.</li>
 </ol>
 <h3>How to run a python script:</h3>
 <ol>
