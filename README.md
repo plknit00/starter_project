@@ -27,8 +27,8 @@
 </ol>
 <h3>How to run a python script:</h3>
 <ol>
-  <li>Open a new terminal window in VSCode</li>
-  <li>Type: "python3 calculator.py" to run the calculator.py file</li>
+  <li>Open a new terminal window in VSCode.</li>
+  <li>Type: "python3 calculator.py" to run the calculator.py file.</li>
   <li>To test this, type "print("Hello World.") into your python file and save it, then run the python3 command in terminal and check for a print sstatement.</li>
 </ol>
 <h3>How to commit new code to github:</h3>
@@ -42,5 +42,6 @@
 <h3>How to check if any edits have been made since previous commit:</h3>
 <ol>
   <li>Go to terminal window.</li>
-  <li>Type: "git status"</li>
+  <li>Type: "git status".</li>
+  <li>This will return either that everything is up to date or that some files have been modified.</li>
 </ol>
