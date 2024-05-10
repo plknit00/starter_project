@@ -37,7 +37,7 @@
   <li>Save current files.</li>
   <li>Go to terminal window.</li>
   <li>Type: "git add ."</li>
-  <li>Type: "git commit -m &ltdescription of edits made&gt" </li>
+  <li>Type: "git commit -m "&ltdescription of edits made&gt"" </li>
   <li>Type: "git push"</li>
 </ol>
 <h3>How to check if any edits have been made since previous commit:</h3>
