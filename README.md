@@ -1,5 +1,6 @@
 <h1>Python Starter Project</h1>
 <h3>By the end of this projecct, you will be familiar with github, terminal, vscode, and python.</h3>
+<h4>Collaborated with bpugh23274 on this project.</h4>
 <h3>Below are steps outlining how to get started:</h3>
 <ol>
   <li>Create a public repository named "python_calculator" in github and include a README file.</li>
